@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ApiService {
-  static const String baseUrl = 'http://localhost:3000/api';
+  static const String baseUrl = 'https://tontine-backend-1-5fe3.onrender.com';
   static String? _token;
 
   static Future<void> setToken(String token) async {
