@@ -14,7 +14,6 @@ dependencies:
   shared_preferences: ^2.2.2
   intl: ^0.18.1
   fl_chart: ^0.66.0
-  flutter_local_notifications: ^16.1.0
   pdf: ^3.10.7
   printing: ^5.11.1
   image_picker: ^1.0.4
